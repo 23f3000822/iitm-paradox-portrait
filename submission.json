@@ -1,16 +1,5 @@
 {
-  "prompt": "dramatic side-view photograph of ancient carved rice terraces on a steep 
-mountainside at dawn, each individual terrace-step is clearly sloping 
-downward left-to-right with water visibly pooling at the lower edge of 
-each step, but the entire mountain face rises sharply from left to right, 
-both the local downward slope of every terrace and the global upward 
-ascent of the mountain are simultaneously undeniable in one frame, thin 
-morning mist threads between the terrace levels separating each one as a 
-distinct unit, golden raking light from the left catches the water on 
-each terrace and the ascending ridge line, photorealistic, shot on 
-Hasselblad medium format, 80mm lens, f/8, deep focus throughout, 
-Kodachrome palette, no figures, no text, no symbols, no annotations
---ar 16:9 --style raw --v 6.1",
+  "prompt": "dramatic side-view photograph of ancient carved rice terraces on a steep mountainside at dawn, each individual terrace-step is clearly sloping downward left-to-right with water visibly pooling at the lower edge of each step, but the entire mountain face rises sharply from left to right, both the local downward slope of every terrace and the global upward ascent of the mountain are simultaneously undeniable in one frame, thin morning mist threads between the terrace levels separating each one as a distinct unit, golden raking light from the left catches the water on each terrace and the ascending ridge line, photorealistic, shot on Hasselblad medium format, 80mm lens, f/8, deep focus throughout, Kodachrome palette, no figures, no text, no symbols, no annotations",
   "model": "Midjourney v6.1",
   "paradox": "Simpson's Paradox",
   "visual_logic": "Terraced rice paddies where every individual terrace slopes downward right but the mountain ascends left-to-right; local and global directionality are simultaneously opposite and both visually undeniable.",
